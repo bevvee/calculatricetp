@@ -8,7 +8,7 @@ public class Main {
         Calculatrice calc = new Calculatrice();
 
         int resultat = calc.addition(5, 3);
-        System.out.println("Résultat de l'addition : " + resultat);
+        System.out.println("Résultat de l'addition test : " + resultat);
 
         // System.out.println("Multiplication 3 * 4 = " + Calculatrice.multiplication(3, 4));
 
